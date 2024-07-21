@@ -105,6 +105,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or support, please contact Peter Okafor at [peter@pearsoftwares.com](mailto:peter@pearsoftwares.com).
 
----
 
-Feel free to customize this README as needed!
