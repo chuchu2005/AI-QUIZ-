@@ -103,7 +103,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For questions or support, please contact Peter Okafor at [peter@example.com](mailto:peter@example.com).
+For questions or support, please contact Peter Okafor at [peter@pearsoftwares.com](mailto:peter@pearsoftwares.com).
 
 ---
 
